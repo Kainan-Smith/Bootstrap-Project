@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(50, 50, 50);
+}
+
+.custom-grey {
+    background-color: rgb(70, 70, 67);
+}
+
+.custom-nav-item {
+    font-size: 26px;
+}
+
+.custom-nav-head {
+    font-size: 32px;
+}
+
+.custom-nav-head,
+.custom-nav-item {
+    color: rgb(220, 220, 220)
+}
