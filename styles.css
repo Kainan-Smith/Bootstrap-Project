@@ -3,7 +3,7 @@ body {
 }
 
 .custom-grey {
-    background-color: rgb(70, 70, 67);
+    background-color: #373734;
 }
 
 .custom-nav-item {
@@ -16,5 +16,9 @@ body {
 
 .custom-nav-head,
 .custom-nav-item {
-    color: rgb(220, 220, 220)
+    color: #EBEBEB;
 }
+
+/* Media Card Styles */
+
+.thumb
