@@ -21,4 +21,21 @@ body {
 
 /* Media Card Styles */
 
-.thumb
+.thumbnail {
+    width: 300px;
+}
+
+.custom-card {
+    color: #312700;
+    display: flex;
+    justify-content: center;
+}
+
+.custom-card,
+.card-img-top {
+    background-color: #D9D9D9;
+}
+
+.card-margin {
+    margin: 10px;
+}
